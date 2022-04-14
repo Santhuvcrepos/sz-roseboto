@@ -1,3 +1,4 @@
+import html
 from pyrogram import filters
 from pyrogram.errors import ChatAdminRequired
 from pyrogram.types import  InlineKeyboardMarkup, Message
