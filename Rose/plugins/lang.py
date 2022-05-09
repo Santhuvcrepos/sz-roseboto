@@ -34,7 +34,7 @@ keyboard = InlineKeyboardMarkup(
                 text="मराठी 🇮🇳", callback_data="languages_ma"
             ),
             InlineKeyboardButton(
-                text="తెలుగు 🇮🇳", callback_data="languages_ta"
+                text="తెలుగు 🇮🇳", callback_data="languages_tel"
             )
         ],
         [
@@ -120,6 +120,7 @@ This is where translations come in; you can change the language of most replies 
 - हिन्दी🇮🇳
 - English🇬🇧
 - සිංහල🇱🇰
+- తెలుగు 🇮🇳
 
 **Admin commands:**
 - /lang : Set your preferred language.
@@ -147,7 +148,7 @@ __helpbtns__ = (
                 text="मराठी 🇮🇳", callback_data="languages_ma"
             ),
             InlineKeyboardButton(
-                text="తెలుగు 🇮🇳", callback_data="languages_ta"
+                text="తెలుగు 🇮🇳", callback_data="languages_tel"
             )
         ],
         [
