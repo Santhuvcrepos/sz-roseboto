@@ -1,7 +1,7 @@
 name : Telugu
 
 #menu - menu.py
-menu : సంతు గ్రూప్ management bot May 9, 2022న సృష్టించబడింది. మేము ప్రస్తుతం కేవలం Pyrogram లైబారీని ఉపయోగించి WilliamButcherBot మరియు szrosebot ప్లగిన్‌లను అభివృద్ధి చేసి, నిర్వహిస్తున్నాము.\n\n• సృష్టికర్త : [santhu](https://t.me/musicupdates123)\n • భాష : [python 3](https://www.python.org/)\n• డేటాబేస్ : [Mongo db](https://cloud.mongodb.com/)\n• సర్వర్ : [Heroku](https //heroku.com/)\n• బిల్డ్ వెర్షన్ : 1.0.9\n\n@musicupdates123"
+menu : "సంతు గ్రూప్ management bot May 9, 2022న సృష్టించబడింది. మేము ప్రస్తుతం కేవలం Pyrogram లైబారీని ఉపయోగించి WilliamButcherBot మరియు szrosebot ప్లగిన్‌లను అభివృద్ధి చేసి, నిర్వహిస్తున్నాము.\n\n• సృష్టికర్త : [santhu](https://t.me/musicupdates123)\n • భాష : [python 3](https://www.python.org/)\n• డేటాబేస్ : [Mongo db](https://cloud.mongodb.com/)\n• సర్వర్ : [Heroku](https //heroku.com/)\n• బిల్డ్ వెర్షన్ : 1.0.9\n\n@musicupdates123"
 back : "◁వెనుకకు"
 
 #main - main.py
