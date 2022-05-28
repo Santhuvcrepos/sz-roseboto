@@ -6,7 +6,7 @@ from Rose.utils.lang import *
 
 fbuttons = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton("« Back", callback_data='startcq')
+            InlineKeyboardButton("• ʙᴀᴄᴋ", callback_data='startcq')
         ]]
 )
 
@@ -14,37 +14,37 @@ keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="English🇬🇧", callback_data="languages_en"
+                text="• ᴇɴɢʟɪsʜ", callback_data="languages_en"
             ),
             InlineKeyboardButton(
-                text="සිංහල🇱🇰", callback_data="languages_si"
+                text="• සිංහල", callback_data="languages_si"
             )
         ],
         [
             InlineKeyboardButton(
-                text="हिन्दी🇮🇳", callback_data="languages_hi"
+                text="• हिन्दी", callback_data="languages_hi"
             ),
             InlineKeyboardButton(
-                text="Tamil🇮🇳", callback_data="languages_ta"
+                text="• ᴛᴀᴍɪʟ", callback_data="languages_ta"
             )
         ],
         [
             InlineKeyboardButton(
-                text="मराठी 🇮🇳", callback_data="languages_ma"
+                text="• मराठी", callback_data="languages_ma"
             ),
             InlineKeyboardButton(
-                text="తెలుగు 🇮🇳", callback_data="languages_ta"
+                text="• తెలుగు", callback_data="languages_tel"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🌎 Help us with translation",
+                text="• ʜᴇʟᴘ ᴜs ᴡɪᴛʜ ᴛʀᴀɴsʟᴀᴛɪᴏɴ",
                 url=f"https://crwd.in/szrosebot",
             )
         ],
         [
             InlineKeyboardButton(
-                text="Close ✖️", callback_data="close_data"
+                text="• ᴄʟᴏsᴇ", callback_data="close_data"
             ),
         ],
     ]
