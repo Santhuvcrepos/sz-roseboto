@@ -1,15 +1,15 @@
-# Rose Bot Multi-Language Support
-## Thanks to [TeamYukki](https://t.me/TeamYukki)
+# sᴀɴᴛʜᴜ ʙᴏᴛ ᴍᴜʟᴛɪ-ʟᴀɴɢᴜᴀɢᴇ sᴜᴘᴘᴏʀᴛ
+## ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍʏᴜᴋᴋɪ](https://t.me/TeamYukki)
 
-- These all are the languages currently available in Bot. You can edit or change all strings available.
+- ᴛʜᴇsᴇ ᴀʟʟ ᴀʀᴇ ᴛʜᴇ ʟᴀɴɢᴜᴀɢᴇs ᴄᴜʀʀᴇɴᴛʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴇᴅɪᴛ ᴏʀ ᴄʜᴀɴɢᴇ ᴀʟʟ sᴛʀɪɴɢs ᴀᴠᴀɪʟᴀʙʟᴇ.
 
-| Code | Language | Contributor |
+| ᴄᴏᴅᴇ | ʟᴀɴɢᴜᴀɢᴇ | ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ |
 |-|-------|-------|
-| en | English | Thanks to [Theszrosebot](https://t.me/Theszrosebot)
+| ᴇɴ | ᴇɴɢʟɪsʜ | ᴛʜᴀɴᴋs ᴛᴏ [sᴀɴᴛʜᴜ ᴍᴜsɪᴄ](https://t.me/Theszrosebot)
 
 
-### We need your help in translating Rose Bot. How to Contribute?
+### ᴡᴇ ɴᴇᴇᴅ ʏᴏᴜʀ ʜᴇʟᴘ ɪɴ ᴛʀᴀɴsʟᴀᴛɪɴɢ sᴀɴᴛʜᴜ ʙᴏᴛ. ʜᴏᴡ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ?
 
-You can edit [`en.yml`](https://t.me/Theszrosebot/12) present in langs folder to your own language and send us the edited file at [slbotzone](https://t.me/slbotzone)
+ʏᴏᴜ ᴄᴀɴ ᴇᴅɪᴛ [`en.yml`](https://t.me/Theszrosebot/12) present in langs folder to your own language and send us the edited file at [slbotzone](https://t.me/slbotzone)
 
 - > Points to remember while editing : <br> - Make sure you dont change any `{}`  while editing your codes <br> - Don’t change "main1" or any other such keys present.
